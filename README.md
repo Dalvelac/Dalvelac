@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Daniel]
+# ¡Hola! 👋 Soy Daniel
 
 ### Estudiante de Doble Grado en Ingeniería Informática y ADE
 
