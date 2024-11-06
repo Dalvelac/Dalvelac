@@ -9,6 +9,7 @@ Actualmente, estoy cursando el doble grado de Ingeniería Informática y Adminis
 - **Java** ☕
 - **Python** 🐍
 - **C / C++** 💻
+- **HTML / CSS / JS** 🎨
 
 ### Un poco sobre mí:
 - 👨‍💻 Me encanta desarrollar soluciones eficientes y aprender nuevas tecnologías.
