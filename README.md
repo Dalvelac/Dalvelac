@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://i.vgy.me/JFAJhq.png" align="center" style="width: 10%; height: auto;" />
+  <img src="https://github.com/Dalvelac/Dalvelac/blob/main/Linux.png?raw=true" align="center" style="width: 10%; height: auto;" />
 </div>
-
 
 
 ### <div align="center">Soy Daniel, programador y diseñador web Full-Stack.</div>  
