@@ -15,7 +15,7 @@
 - ❓ Preguntame sobre ciberseguridad!  
   
 
-- ⚡ Fun fact: amo crear páginas web.  
+- ⚡ Fun fact: I love building websites.
   
 
 <br/>  
