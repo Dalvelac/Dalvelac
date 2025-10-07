@@ -9,7 +9,7 @@
 - 👨‍💻 Trabajo en varios proyectos de desarrollo web, notablemente el desarrollo de páginas web del padel en Costa Rica.  
   
 
-- 🌱 Estoy aprendiendo Python actualmente.  
+- 🌱 Estoy aprendiendo Rust actualmente.  
   
 
 - ❓ Preguntame sobre ciberseguridad!  
