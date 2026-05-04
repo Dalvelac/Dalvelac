@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Panzuro.com<br>🌱 I’m currently learning C.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I preffer Gitlab.
+🔭 I’m currently working on Panzuro.com<br>🌱 I’m currently learning C.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I prefer Gitlab.
 
 
 ## 🌐 Socials:
