@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Panzuro.com and Tasker!<br>🌱 I’m currently learning C.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I prefer Gitlab.
+🔭 I’m currently working on Panzuro.com and Tasker!<br>🌱 I’m currently learning C.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I use Artix btw.
 
 
 ## 🌐 Socials:
