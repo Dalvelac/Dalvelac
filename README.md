@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I use Artix btw.
+🌱 I’m currently learning C.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I use Artix btw :)
 
 
 ## 🌐 Socials:
