@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I use Artix btw :)
+🌱 I'm a 20 year old student that took his first steps in cybersecurity at the age of 11. As soon as I got into it, I knew this was going to be my passion, I was insistent in becoming a hacker!.<br>💬 Ask me about Cybersecurity!<br>⚡ Fun fact: I use Artix btw :)
 
 
 ## 🌐 Socials:
